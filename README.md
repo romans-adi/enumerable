@@ -31,8 +31,7 @@ This project is about creating a custom MyList class and a supporting MyEnumerab
 
 ### Key Features <a name="key-features"></a>
 
-- [x] Encode Text to Morse: Add the capability to encode text into Morse code, allowing users to convert plain text messages into Morse code.
-- [x] Morse Code History: Include a feature to store previously decoded messages, allowing users to review their decoded history.
+- [x] 
 
 ### Future Features <a name="future-features"></a>
 
