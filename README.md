@@ -31,7 +31,8 @@ This project is about creating a custom MyList class and a supporting MyEnumerab
 
 ### Key Features <a name="key-features"></a>
 
-- [x] 
+- [x] Custom MyList class: Implement a class that allows users to work with lists of elements efficiently
+- [x] MyEnumerable module: Provides essential list operations like all?, any?, and filter, adding versatility to list handling.
 
 ### Future Features <a name="future-features"></a>
 
@@ -59,12 +60,12 @@ This project is about creating a custom MyList class and a supporting MyEnumerab
 
 1. Ensure you have Ruby installed on your system. You can check your Ruby version in the terminal by running:
 
-```ruby -v```
+`ruby -v`
 
 If Ruby is not installed, you can download and install it from the official Ruby website.
 
 2. To get a local copy up and running, follow these steps.
-Choose the directory on your local machine where you want to copy project. For example:
+   Choose the directory on your local machine where you want to copy project. For example:
 
 > cd /home/user/name-of-your-directory
 
@@ -91,7 +92,7 @@ To run this project locally, follow these steps:
 2. Navigate to the directory where you have cloned or downloaded the Enumerable repository.
 
 3. Run the following command to install any required dependencies (in this case, we assume there are no external dependencies, so this step may not be needed):
-```bundle install```
+   `bundle install`
 
 ### Usage <a name="usage"></a>
 
@@ -99,7 +100,7 @@ To run this project locally, follow these steps:
 
 2. To run the app, execute the following command:
 
-```ruby main.rb```
+`ruby main.rb`
 
 3. The decoded message will be displayed as the output.
 
@@ -121,7 +122,7 @@ If you'd like to contribute to this project, please follow these steps:
 
 Please adhere to the coding conventions and guidelines specified in the project.
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/romans-adi/enumerable/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -137,7 +138,7 @@ This project is [MIT](LICENSE) licensed.
 
 ## Support <a name="support"></a>
 
-If you encounter any issues or have any questions or suggestions, please open an issue on the [issue tracker](../../../issues/).
+If you encounter any issues or have any questions or suggestions, please open an issue on the [issue tracker](https://github.com/romans-adi/enumerable/issues).
 Furthermore, if you would like to get in touch with us, you can find our contact information in the <a href="#authors">Authors</a> section.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -148,7 +149,7 @@ Furthermore, if you would like to get in touch with us, you can find our contact
 
 We would like to thank the following individuals and projects for their contributions and inspiration:
 
-[Ruby official](https://www.ruby-lang.org/) :  Special thanks to Yukihiro Matsumoto, the creator of the Ruby programming language, for giving us this powerful and elegant tool to build amazing applications. We are also grateful to the Ruby Core Team and the passionate Ruby community for their continuous support and contributions.
+[Ruby official](https://www.ruby-lang.org/) : Special thanks to Yukihiro Matsumoto, the creator of the Ruby programming language, for giving us this powerful and elegant tool to build amazing applications. We are also grateful to the Ruby Core Team and the passionate Ruby community for their continuous support and contributions.
 
 <!-- AUTHORS -->
 
@@ -164,6 +165,6 @@ We would like to thank the following individuals and projects for their contribu
 
 - GitHub: [@alejuda](https://github.com/Alejuda)
 - Twitter: [@nacho_fino](https://twitter.com/nacho_fino)
-- LinkedIn: [Ignacio Fino](https://www.linkedin.com/in/ignacio-fino-320916209)
+- LinkedIn: [Ignacio Fino](https://www.linkedin.com/in/ignacio-fino)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
